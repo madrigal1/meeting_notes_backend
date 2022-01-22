@@ -1,0 +1,1413 @@
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: GET / 200 42 - 4.789 ms
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: server running on port : 3000
+info: Mongoose connection error
+error: options usecreateindex, usefindandmodify, poolsize, buffermaxentries are not supported
+error: Mongoose default connection error: MongoParseError: options usecreateindex, usefindandmodify, poolsize, buffermaxentries are not supported
+info: server running on port : 3000
+info: Mongoose connection error
+error: options usecreateindex, usefindandmodify, poolsize, buffermaxentries are not supported
+error: Mongoose default connection error: MongoParseError: options usecreateindex, usefindandmodify, poolsize, buffermaxentries are not supported
+info: server running on port : 3000
+info: Mongoose connection error
+error: options usecreateindex, usefindandmodify, poolsize, buffermaxentries are not supported
+error: Mongoose default connection error: MongoParseError: options usecreateindex, usefindandmodify, poolsize, buffermaxentries are not supported
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: name is required
+info: POST /v1/user/new 400 51 - 9.350 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: name is required
+info: POST /v1/user/new 400 51 - 6.650 ms
+error: name is required
+info: POST /v1/user/new 400 51 - 6.258 ms
+error: email is required
+info: POST /v1/user/new 400 52 - 6.020 ms
+error: name is required
+info: POST /v1/user/new 400 51 - 3.558 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 8.944 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 10.670 ms
+info: POST /v1/user/new 500 49 - 2.406 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 11.186 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 13.311 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 133.474 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 151.733 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 176.926 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 133.731 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 126.428 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 500 49 - 138.723 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 200 229 - 129.166 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 400 61 - 16.190 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 400 70 - 18.033 ms
+error: email must be a valid email
+info: POST /v1/user/new 400 62 - 4.321 ms
+info: POST /v1/user/new 400 70 - 2.574 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 200 238 - 136.328 ms
+info: POST /v1/user/new 400 70 - 4.261 ms
+info: POST /v1/user/new 200 238 - 107.180 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 117.637 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 135.831 ms
+info: POST /v1/user/login 500 49 - 123.273 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 127.717 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 120.972 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 141.339 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 128.031 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 166.793 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 500 49 - 127.432 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: user.toObject is not a function
+info: POST /v1/user/login 500 31 - 130.216 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 200 270 - 119.315 ms
+info: POST /v1/user/login 401 51 - 107.080 ms
+info: POST /v1/user/login 200 270 - 119.541 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/register 400 70 - 25.163 ms
+error: Illegal arguments: undefined, number
+info: POST /v1/user/register 500 36 - 174.068 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: Illegal arguments: undefined, number
+info: POST /v1/user/register 500 36 - 203.664 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: Illegal arguments: undefined, number
+info: POST /v1/user/register 500 36 - 158.000 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: Illegal arguments: undefined, number
+info: POST /v1/user/register 500 36 - 158.007 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: Illegal arguments: undefined, number
+info: POST /v1/user/register 500 36 - 741.562 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/register - - - - ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/register 404 70 - 5.509 ms
+error: Illegal arguments: undefined, number
+info: POST /v1/user/new 500 36 - 185.454 ms
+error: Illegal arguments: undefined, number
+info: POST /v1/user/new 500 36 - 125.081 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 200 239 - 196.594 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/new 404 65 - 5.071 ms
+info: POST /v1/user/register 400 71 - 20.650 ms
+info: POST /v1/user/register 400 71 - 6.643 ms
+info: POST /v1/user/login 200 270 - 142.823 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: GET /v1/meeting/new 404 68 - 6.379 ms
+info: POST /v1/meeting/new 400 63 - 32.399 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/meeting/new 200 301 - 42.262 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/meeting/new 200 301 - 43.425 ms
+info: POST /v1/user/register 400 71 - 7.079 ms
+info: POST /v1/user/register 200 1032 - 213.752 ms
+info: POST /v1/user/register 200 1029 - 113.750 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 200 1244 - 380.149 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: GET /v1/user/fetch/all 404 71 - 3.243 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 4.793 ms
+info: POST /v1/user/login 200 1244 - 149.471 ms
+info: GET /v1/meeting/fetch/all 401 96 - 27.809 ms
+info: POST /v1/user/login 200 1244 - 113.714 ms
+info: GET /v1/meeting/fetch/all 200 733 - 11.524 ms
+info: POST /v1/meeting/new 200 302 - 28.085 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 200 306 - 71.334 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 66.879 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 78.824 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 67.471 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 66.258 ms
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 25.208 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 69.340 ms
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 25.948 ms
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 22.944 ms
+info: POST /v1/meeting/new 200 302 - 38.091 ms
+info: GET /v1/meeting/fetch/all 200 947 - 51.208 ms
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 63 - 14.221 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaf38a92a4df6a9fd25500 500 59 - 58.725 ms
+info: GET /v1/meeting/fetch/all 200 947 - 29.708 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaee8896cbb68279746f43 200 298 - 37.600 ms
+info: DELETE /v1/meeting/delete/61eaee8896cbb68279746f43 200 90 - 11.099 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: DELETE /v1/meeting/delete/61eaee8896cbb68279746f43 400 78 - 39.349 ms
+info: GET /v1/meeting/fetch/all 200 734 - 16.694 ms
+info: DELETE /v1/meeting/delete/61eae82f7a2d773d27774ca3 200 298 - 15.720 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/meeting/new 200 302 - 66.470 ms
+info: GET /v1/meeting/update 404 71 - 7.176 ms
+error: _id is not allowed
+info: PUT /v1/meeting/update 400 53 - 9.186 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: initiator is not allowed
+info: PUT /v1/meeting/update 400 59 - 33.150 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: PUT /v1/meeting/update 200 297 - 40.919 ms
+info: Mongoose default connection disconnected
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 30.436 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.602 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 2.387 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.559 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 4.058 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 3.909 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 4.446 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.375 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 3.039 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 5.204 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.628 ms
+info: POST /v1/user/login 200 1244 - 710.423 ms
+info: POST /v1/user/login 200 1244 - 757.920 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 74.350 ms
+info: POST /v1/user/login 200 1244 - 321.683 ms
+info: POST /v1/user/login 200 1244 - 173.004 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 3.898 ms
+info: POST /v1/user/login 200 1244 - 128.863 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.993 ms
+info: POST /v1/user/login 200 1244 - 165.532 ms
+info: POST /v1/user/login 200 1244 - 206.388 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.071 ms
+info: POST /v1/user/login 200 1244 - 91.116 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.769 ms
+info: POST /v1/user/login 200 1244 - 271.773 ms
+info: POST /v1/user/login 200 1244 - 104.171 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.614 ms
+info: POST /v1/user/login 200 1244 - 100.619 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.673 ms
+info: POST /v1/user/login 200 1244 - 107.961 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.625 ms
+info: POST /v1/user/login 200 1244 - 129.141 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.780 ms
+info: POST /v1/user/login 200 1244 - 248.270 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 2.340 ms
+info: POST /v1/user/login 200 1244 - 162.482 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.945 ms
+info: POST /v1/user/login 200 1244 - 203.151 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 2.817 ms
+info: POST /v1/user/login 200 1244 - 143.361 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.220 ms
+info: POST /v1/user/login 200 1244 - 98.601 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.168 ms
+info: POST /v1/user/login 200 1244 - 126.758 ms
+info: POST /v1/user/login 200 1244 - 113.854 ms
+info: POST /v1/user/login 200 1244 - 285.743 ms
+info: POST /v1/user/login 200 1244 - 100.875 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.932 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 2.763 ms
+info: POST /v1/user/login 200 1244 - 155.041 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.904 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.837 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.026 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.876 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.988 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.823 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.746 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.360 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 3.498 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 0.749 ms
+error: authorization is required
+info: GET /v1/meeting/fetch/all 400 60 - 1.042 ms
+info: POST /v1/user/login 200 1244 - 259.849 ms
+info: POST /v1/user/login 200 1244 - 332.737 ms
+info: POST /v1/user/login 200 1244 - 241.000 ms
+info: POST /v1/user/login 200 1244 - 168.885 ms
+info: GET /v1/meeting/fetch/all 200 736 - 391.937 ms
+info: POST /v1/user/login 200 1244 - 106.503 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.885 ms
+info: POST /v1/user/login 200 1244 - 139.110 ms
+info: GET /v1/meeting/fetch/all 304 - - 3.696 ms
+info: POST /v1/user/login 200 1244 - 146.949 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.745 ms
+info: POST /v1/user/login 200 1244 - 104.692 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.496 ms
+info: POST /v1/user/login 200 1244 - 333.219 ms
+info: POST /v1/user/login 200 1244 - 205.378 ms
+info: POST /v1/user/login 200 1244 - 211.222 ms
+info: GET /v1/meeting/fetch/all 401 105 - 20.161 ms
+info: GET /v1/meeting/fetch/all 401 105 - 10.607 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.208 ms
+info: POST /v1/user/login 200 1244 - 201.231 ms
+info: GET /v1/meeting/fetch/all 304 - - 46.531 ms
+info: POST /v1/user/login 200 1244 - 303.902 ms
+info: POST /v1/user/login 200 1244 - 152.303 ms
+info: GET /v1/meeting/fetch/all 401 105 - 7.508 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.496 ms
+info: POST /v1/user/login 200 1244 - 94.724 ms
+info: GET /v1/meeting/fetch/all 304 - - 3.896 ms
+info: POST /v1/user/login 200 1244 - 144.318 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.105 ms
+info: POST /v1/user/login 200 1244 - 262.849 ms
+info: POST /v1/user/login 200 1244 - 137.474 ms
+info: GET /v1/meeting/fetch/all 401 105 - 4.413 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.767 ms
+info: POST /v1/user/login 200 1244 - 240.006 ms
+info: POST /v1/user/login 200 1244 - 95.603 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.220 ms
+info: GET /v1/meeting/fetch/all 401 105 - 5.933 ms
+info: POST /v1/user/login 200 1244 - 153.093 ms
+info: GET /v1/meeting/fetch/all 304 - - 13.632 ms
+info: POST /v1/user/login 200 1244 - 105.823 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.457 ms
+info: POST /v1/user/login 200 1244 - 114.700 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.465 ms
+info: POST /v1/user/login 200 1244 - 144.372 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.764 ms
+info: POST /v1/user/login 200 1244 - 125.852 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.438 ms
+info: POST /v1/user/login 200 1244 - 117.345 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.730 ms
+info: POST /v1/user/login 200 1244 - 129.249 ms
+info: GET /v1/meeting/fetch/all 304 - - 22.626 ms
+info: POST /v1/user/login 200 1244 - 165.891 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.176 ms
+info: POST /v1/user/login 200 1244 - 97.349 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.227 ms
+info: POST /v1/user/login 200 1244 - 111.879 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.288 ms
+info: POST /v1/user/login 200 1244 - 197.626 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.737 ms
+info: POST /v1/user/login 200 1244 - 200.858 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.061 ms
+info: POST /v1/user/login 200 1244 - 146.550 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.285 ms
+info: POST /v1/user/login 200 1244 - 170.136 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.222 ms
+info: POST /v1/user/login 200 1244 - 201.902 ms
+info: GET /v1/meeting/fetch/all 304 - - 21.670 ms
+info: POST /v1/user/login 200 1244 - 112.008 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.720 ms
+info: POST /v1/user/login 200 1244 - 146.549 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.176 ms
+info: POST /v1/user/login 200 1244 - 107.407 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.621 ms
+info: POST /v1/user/login 200 1244 - 108.684 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.845 ms
+info: POST /v1/user/login 200 1244 - 361.682 ms
+info: POST /v1/user/login 200 1244 - 152.984 ms
+info: GET /v1/meeting/fetch/all 401 105 - 5.876 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.371 ms
+info: POST /v1/user/login 200 1244 - 119.063 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.907 ms
+info: POST /v1/user/login 200 1244 - 115.939 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.504 ms
+info: POST /v1/user/login 200 1244 - 170.133 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.981 ms
+info: POST /v1/user/login 200 1244 - 150.838 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.197 ms
+info: POST /v1/user/login 200 1244 - 215.414 ms
+info: POST /v1/user/login 200 1244 - 105.094 ms
+info: GET /v1/meeting/fetch/all 401 105 - 3.320 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.245 ms
+info: POST /v1/user/login 200 1244 - 272.491 ms
+info: GET /v1/meeting/fetch/all 304 - - 16.816 ms
+info: POST /v1/user/login 200 1244 - 141.152 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.937 ms
+info: POST /v1/user/login 200 1244 - 97.209 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.573 ms
+info: POST /v1/user/login 200 1244 - 112.343 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.106 ms
+info: POST /v1/user/login 200 1244 - 105.222 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.532 ms
+info: POST /v1/user/login 200 1244 - 142.113 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.492 ms
+info: POST /v1/user/login 200 1244 - 142.703 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.074 ms
+info: POST /v1/user/login 200 1244 - 112.339 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.191 ms
+info: POST /v1/user/login 200 1244 - 126.674 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.360 ms
+info: POST /v1/user/login 200 1244 - 175.454 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.864 ms
+info: POST /v1/user/login 200 1244 - 125.568 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.943 ms
+info: POST /v1/user/login 200 1244 - 156.231 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.086 ms
+info: POST /v1/user/login 200 1244 - 95.103 ms
+info: GET /v1/meeting/fetch/all 304 - - 3.491 ms
+info: POST /v1/user/login 200 1244 - 135.188 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.806 ms
+info: POST /v1/user/login 200 1244 - 204.115 ms
+info: POST /v1/user/login 200 1244 - 100.150 ms
+info: GET /v1/meeting/fetch/all 401 105 - 3.208 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.188 ms
+info: POST /v1/user/login 200 1244 - 149.527 ms
+info: GET /v1/meeting/fetch/all 304 - - 12.118 ms
+info: POST /v1/user/login 200 1244 - 309.104 ms
+info: GET /v1/meeting/fetch/all 304 - - 17.006 ms
+info: POST /v1/user/login 200 1244 - 348.363 ms
+info: GET /v1/meeting/fetch/all 304 - - 25.536 ms
+info: POST /v1/user/login 200 1244 - 146.327 ms
+info: GET /v1/meeting/fetch/all 200 95 - 36.221 ms
+info: POST /v1/user/login 200 1244 - 171.674 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.448 ms
+info: POST /v1/user/login 200 1244 - 146.215 ms
+info: GET /v1/meeting/fetch/all 304 - - 20.149 ms
+info: POST /v1/user/login 200 1244 - 356.485 ms
+info: POST /v1/user/login 200 1244 - 173.701 ms
+info: GET /v1/meeting/fetch/all 401 105 - 8.382 ms
+info: GET /v1/meeting/fetch/all 304 - - 12.671 ms
+info: POST /v1/user/login 200 1244 - 447.508 ms
+info: GET /v1/meeting/fetch/all 401 105 - 11.394 ms
+info: POST /v1/user/login 200 1244 - 174.479 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.252 ms
+info: POST /v1/user/login 200 1244 - 297.205 ms
+info: POST /v1/user/login 200 1244 - 199.159 ms
+info: GET /v1/meeting/fetch/all 401 105 - 7.875 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.949 ms
+info: POST /v1/user/login 200 1244 - 146.500 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.898 ms
+info: POST /v1/user/login 200 1244 - 168.505 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.941 ms
+info: POST /v1/user/login - - - - ms
+info: POST /v1/user/login 200 1244 - 367.497 ms
+info: GET /v1/meeting/fetch/all 401 105 - 9.717 ms
+info: POST /v1/user/login 200 1244 - 196.990 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.922 ms
+info: POST /v1/user/login 200 1244 - 158.114 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.308 ms
+info: POST /v1/user/login 200 1244 - 191.628 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.913 ms
+info: POST /v1/user/login 200 1244 - 124.092 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.147 ms
+error: initiator is required
+info: POST /v1/meeting/new 400 56 - 8.711 ms
+error: authorization is required
+info: GET /v1/meeting/new 400 60 - 1.085 ms
+info: GET /favicon.ico 404 65 - 0.973 ms
+info: POST /v1/user/login 200 1244 - 271.853 ms
+info: GET /v1/meeting/fetch/all 304 - - 36.956 ms
+info: POST /v1/user/login 200 1244 - 217.742 ms
+info: GET /v1/meeting/fetch/all 304 - - 13.047 ms
+info: POST /v1/user/login 200 1244 - 295.758 ms
+info: GET /v1/meeting/fetch/all 304 - - 14.202 ms
+error: initiator is required
+info: POST /v1/meeting/new 400 56 - 17.046 ms
+info: POST /v1/user/login 200 1244 - 124.530 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.656 ms
+info: POST /v1/user/login 200 1244 - 113.128 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.908 ms
+info: POST /v1/user/login 200 1244 - 120.827 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.926 ms
+info: POST /v1/user/login 200 1244 - 134.143 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.541 ms
+info: POST /v1/user/login 200 1244 - 290.107 ms
+info: GET /v1/meeting/fetch/all 304 - - 144.503 ms
+info: POST /v1/user/login 200 1244 - 300.396 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.571 ms
+error: initiator must be a string
+info: POST /v1/meeting/new 400 61 - 25.233 ms
+info: POST /v1/user/login 200 1244 - 695.097 ms
+info: POST /v1/user/login 200 1244 - 180.472 ms
+info: GET /v1/meeting/fetch/all 401 105 - 5.578 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.845 ms
+info: POST /v1/meeting/new 200 278 - 113.647 ms
+info: POST /v1/user/login 200 1244 - 183.835 ms
+info: GET /v1/meeting/fetch/all 200 284 - 10.703 ms
+info: POST /v1/user/login 200 1244 - 151.442 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.247 ms
+info: POST /v1/user/login 200 1244 - 196.236 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.908 ms
+info: POST /v1/user/login 200 1244 - 146.470 ms
+info: GET /v1/meeting/fetch/all 304 - - 12.176 ms
+info: POST /v1/user/login 200 1244 - 233.253 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.277 ms
+info: POST /v1/user/login 200 1244 - 106.312 ms
+info: GET /v1/meeting/fetch/all 304 - - 3.961 ms
+info: POST /v1/user/login 200 1244 - 121.221 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.243 ms
+info: POST /v1/user/login 200 1244 - 146.300 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.298 ms
+info: POST /v1/user/login 200 1244 - 282.494 ms
+info: POST /v1/user/login 200 1244 - 166.263 ms
+info: GET /v1/meeting/fetch/all 401 105 - 53.559 ms
+info: GET /v1/meeting/fetch/all 304 - - 16.593 ms
+info: POST /v1/meeting/new - - - - ms
+info: POST /v1/user/login 200 1244 - 173.067 ms
+info: GET /v1/meeting/fetch/all 200 563 - 10.092 ms
+info: POST /v1/user/login 200 1244 - 131.616 ms
+info: GET /v1/meeting/fetch/all 304 - - 12.042 ms
+info: POST /v1/user/login 200 1244 - 154.160 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.632 ms
+info: POST /v1/user/login 200 1244 - 176.935 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.102 ms
+info: POST /v1/meeting/new - - - - ms
+info: POST /v1/user/login 200 1244 - 143.694 ms
+info: GET /v1/meeting/fetch/all 200 798 - 7.763 ms
+info: POST /v1/user/login 200 1244 - 179.606 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.418 ms
+info: POST /v1/user/login 200 1244 - 131.430 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.221 ms
+info: POST /v1/user/login 200 1244 - 262.238 ms
+info: GET /v1/meeting/fetch/all 304 - - 28.376 ms
+info: POST /v1/user/login 200 1244 - 180.166 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.255 ms
+info: POST /v1/user/login 200 1244 - 182.474 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.614 ms
+info: POST /v1/user/login 200 1244 - 223.508 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.838 ms
+info: POST /v1/user/login 200 1244 - 145.641 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.510 ms
+info: POST /v1/user/login 200 1244 - 282.529 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.581 ms
+info: POST /v1/user/login 200 1244 - 255.524 ms
+info: GET /v1/meeting/fetch/all 304 - - 19.823 ms
+info: POST /v1/meeting/new 200 364 - 37.267 ms
+info: POST /v1/user/login 200 1244 - 184.058 ms
+info: GET /v1/meeting/fetch/all 200 1074 - 14.274 ms
+info: POST /v1/user/login 200 1244 - 94.834 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.337 ms
+info: POST /v1/user/login 200 1244 - 98.063 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.605 ms
+info: POST /v1/user/login 200 1244 - 233.197 ms
+info: GET /v1/meeting/fetch/all 304 - - 3.868 ms
+info: DELETE /v1/meeting/delete/61ebf54a447690b19fddaa20 200 271 - 19.144 ms
+info: POST /v1/user/login 200 1244 - 175.453 ms
+info: GET /v1/meeting/fetch/all 200 884 - 12.812 ms
+info: POST /v1/user/login 200 1244 - 142.332 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.908 ms
+info: POST /v1/meeting/new 200 277 - 21.109 ms
+info: POST /v1/user/login 200 1244 - 147.981 ms
+info: GET /v1/meeting/fetch/all 200 1073 - 8.802 ms
+info: POST /v1/user/login 200 1244 - 98.031 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.425 ms
+info: POST /v1/user/login 200 1244 - 157.505 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.721 ms
+info: POST /v1/user/login 200 1244 - 201.717 ms
+info: GET /v1/meeting/fetch/all 304 - - 13.867 ms
+info: POST /v1/user/login 200 1244 - 105.025 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.716 ms
+info: POST /v1/user/login 200 1244 - 123.280 ms
+info: GET /v1/meeting/fetch/all 304 - - 14.430 ms
+info: POST /v1/user/login 200 1244 - 256.244 ms
+info: GET /v1/meeting/fetch/all 304 - - 15.637 ms
+info: POST /v1/user/login 200 1244 - 196.057 ms
+info: GET /v1/meeting/fetch/all 304 - - 13.294 ms
+info: POST /v1/user/login 200 1244 - 159.574 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.340 ms
+info: POST /v1/user/login 200 1244 - 113.107 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.598 ms
+info: POST /v1/user/login 200 1244 - 196.061 ms
+info: GET /v1/meeting/fetch/all 304 - - 15.308 ms
+info: POST /v1/user/login 200 1244 - 141.118 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.632 ms
+info: POST /v1/user/login 200 1244 - 225.889 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.141 ms
+info: POST /v1/user/login 200 1244 - 201.731 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.874 ms
+info: POST /v1/user/login 200 1244 - 281.509 ms
+info: POST /v1/user/login 200 1244 - 125.461 ms
+info: GET /v1/meeting/fetch/all 401 105 - 5.072 ms
+info: GET /v1/meeting/fetch/all 304 - - 13.164 ms
+info: POST /v1/user/login 200 1244 - 137.030 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.078 ms
+info: POST /v1/user/login 200 1244 - 120.646 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.507 ms
+info: POST /v1/user/login 200 1244 - 128.744 ms
+info: GET /v1/meeting/fetch/all 304 - - 4.493 ms
+info: POST /v1/user/login 200 1244 - 286.181 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.142 ms
+info: POST /v1/user/login 200 1244 - 208.643 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.981 ms
+info: POST /v1/user/login 200 1244 - 185.125 ms
+info: GET /v1/meeting/fetch/all 304 - - 13.299 ms
+info: POST /v1/user/login 200 1244 - 162.881 ms
+info: GET /v1/meeting/fetch/all 304 - - 19.246 ms
+info: POST /v1/user/login 200 1244 - 247.131 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.126 ms
+info: POST /v1/user/login 200 1244 - 95.345 ms
+info: GET /v1/meeting/fetch/all 304 - - 3.463 ms
+info: POST /v1/user/login 200 1244 - 174.664 ms
+info: GET /v1/meeting/fetch/all 304 - - 20.560 ms
+info: POST /v1/user/login 200 1244 - 97.107 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.504 ms
+info: POST /v1/user/login 200 1244 - 135.762 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.728 ms
+info: POST /v1/user/login 200 1244 - 126.483 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.015 ms
+info: POST /v1/user/login 200 1244 - 198.742 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.606 ms
+info: POST /v1/user/login 200 1244 - 184.601 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.257 ms
+info: POST /v1/meeting/new 200 360 - 29.545 ms
+info: POST /v1/user/login 200 1244 - 222.007 ms
+info: GET /v1/meeting/fetch/all 200 1345 - 20.438 ms
+info: POST /v1/meeting/new 200 360 - 22.042 ms
+info: POST /v1/user/login 200 1244 - 166.417 ms
+info: GET /v1/meeting/fetch/all 200 1617 - 10.247 ms
+info: POST /v1/user/login 200 1244 - 212.911 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.240 ms
+info: POST /v1/user/login 200 1244 - 160.590 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.913 ms
+info: POST /v1/user/login 200 1244 - 153.062 ms
+info: GET /v1/meeting/fetch/all 304 - - 8.638 ms
+info: POST /v1/user/login 200 1244 - 152.013 ms
+info: GET /v1/meeting/fetch/all 304 - - 5.228 ms
+info: POST /v1/user/login 200 1244 - 262.302 ms
+info: GET /v1/meeting/fetch/all 304 - - 19.984 ms
+info: POST /v1/meeting/new 200 360 - 21.233 ms
+info: POST /v1/user/login 200 1244 - 179.815 ms
+info: GET /v1/meeting/fetch/all 200 1889 - 34.801 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: POST /v1/user/login 200 1244 - 227.883 ms
+info: GET /v1/meeting/fetch/all 304 - - 21.867 ms
+info: DELETE /v1/meeting/delete/61ec15b3447690b19fddac64 200 353 - 33.499 ms
+info: POST /v1/user/login 200 1244 - 200.366 ms
+info: GET /v1/meeting/fetch/all 200 1617 - 55.301 ms
+info: DELETE /v1/meeting/delete/61ec150a447690b19fddac2f 200 353 - 17.932 ms
+info: POST /v1/user/login 200 1244 - 142.603 ms
+info: GET /v1/meeting/fetch/all 200 1345 - 17.546 ms
+info: DELETE /v1/meeting/delete/61ec14fa447690b19fddac22 200 353 - 22.838 ms
+info: POST /v1/user/login 200 1244 - 205.253 ms
+info: GET /v1/meeting/fetch/all 200 1073 - 16.339 ms
+info: PUT /v1/meeting/update2 404 72 - 5.828 ms
+info: PUT /v1/meeting/update2 404 72 - 17.105 ms
+info: POST /v1/user/login 200 1244 - 193.916 ms
+info: GET /v1/meeting/fetch/all 304 - - 16.636 ms
+info: PUT /v1/meeting/update2 404 72 - 12.635 ms
+info: POST /v1/user/login 200 1244 - 219.289 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.344 ms
+info: PUT /v1/meeting/update 200 354 - 16.742 ms
+info: POST /v1/user/login 200 1244 - 132.202 ms
+info: GET /v1/meeting/fetch/all 200 1066 - 14.528 ms
+info: POST /v1/user/login 200 1244 - 108.867 ms
+info: GET /v1/meeting/fetch/all 304 - - 7.480 ms
+info: POST /v1/user/login 200 1244 - 104.382 ms
+info: GET /v1/meeting/fetch/all 304 - - 6.253 ms
+info: POST /v1/user/login 200 1244 - 110.261 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.033 ms
+info: POST /v1/user/login 200 1244 - 276.895 ms
+info: GET /v1/meeting/fetch/all 304 - - 11.918 ms
+info: POST /v1/user/login 200 1244 - 139.217 ms
+info: GET /v1/meeting/fetch/all 304 - - 10.881 ms
+info: PUT /v1/meeting/update 200 356 - 12.837 ms
+info: POST /v1/user/login 200 1244 - 162.118 ms
+info: GET /v1/meeting/fetch/all 200 1068 - 16.873 ms
+info: PUT /v1/meeting/update 200 356 - 38.641 ms
+info: POST /v1/user/login 200 1244 - 191.767 ms
+info: GET /v1/meeting/fetch/all 200 1068 - 13.333 ms
+info: server running on port : 3000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
