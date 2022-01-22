@@ -1411,3 +1411,4 @@ info: GET /v1/meeting/fetch/all 200 1068 - 13.333 ms
 info: server running on port : 3000
 info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
 info: Mongoose connection done
+info: Mongoose default connection disconnected
