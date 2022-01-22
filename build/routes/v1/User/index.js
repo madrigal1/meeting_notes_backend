@@ -39,6 +39,7 @@ router.post("/register", (0, validator_1.default)(userSchema_1.default.new), (0,
 router.post("/login", (0, validator_1.default)(userSchema_1.default.login), (0, asyncHandler_1.default)(async (req, res) => {
     let user;
     user = await UserRepo_1.default.findByEmail(req.body.email);
+    console.log({ user, req: req.body });
     if (!user)
         throw new ApiError_1.BadRequestError(`User with email ${req.body.email} does not exists`);
     const match = await bcryptjs_1.default.compare(req.body.pwd, user.pwd);

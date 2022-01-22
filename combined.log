@@ -1412,3 +1412,49 @@ info: server running on port : 3000
 info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
 info: Mongoose connection done
 info: Mongoose default connection disconnected
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: GET / 200 42 - 7.713 ms
+info: GET /favicon.ico 404 65 - 1.585 ms
+info: GET / 304 - - 0.598 ms
+info: GET //v1/meeting/fetch/all 404 75 - 1.273 ms
+info: POST //v1/user/login 404 68 - 0.846 ms
+info: GET //v1/meeting/fetch/all 404 75 - 0.519 ms
+info: POST //v1/user/login 404 68 - 1.073 ms
+info: Mongoose default connection disconnected
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: GET / 304 - - 5.921 ms
+info: POST /v1/user/login 200 1244 - 178.375 ms
+info: POST /v1/user/login 200 1244 - 244.046 ms
+info: GET /v1/meeting/fetch/all 200 1067 - 34.783 ms
+info: POST /v1/user/login 200 1244 - 159.343 ms
+info: GET /v1/meeting/fetch/all 304 - - 12.065 ms
+info: POST /v1/user/login 200 1244 - 166.918 ms
+info: GET /v1/meeting/fetch/all 304 - - 23.621 ms
+info: POST /v1/user/login 200 1244 - 175.654 ms
+info: GET /v1/meeting/fetch/all 304 - - 36.451 ms
+info: POST /v1/user/login 200 1244 - 189.943 ms
+info: POST /v1/user/login 200 1244 - 133.214 ms
+info: GET /v1/meeting/fetch/all 304 - - 9.894 ms
+info: GET /v1/meeting/fetch/all 304 - - 14.030 ms
+error: email must be a valid email
+info: POST /v1/user/register 400 62 - 14.956 ms
+error: email must be a valid email
+info: POST /v1/user/register 400 62 - 0.854 ms
+error: email must be a valid email
+info: POST /v1/user/register 400 62 - 2.711 ms
+info: POST /v1/user/register 200 1022 - 291.380 ms
+info: POST /v1/user/login 401 51 - 109.890 ms
+info: POST /v1/user/login 200 1228 - 150.266 ms
+info: GET /v1/meeting/fetch/all 304 - - 26.005 ms
+info: POST /v1/user/register 400 70 - 5.765 ms
+info: POST /v1/user/register 400 70 - 2.332 ms
+info: POST /v1/user/login 200 1244 - 182.030 ms
+info: GET /v1/meeting/fetch/all 304 - - 12.531 ms
+info: POST /v1/user/login 401 51 - 140.928 ms
