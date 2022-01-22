@@ -50,10 +50,11 @@ router.post(
     validator(userSchema.login),
     asyncHandler(async (req, res) => {
         let user;
-
+        
         user = await UserRepo.findByEmail(req.body.email);
+        console.log({user,req:req.body})
         if (!user) throw new BadRequestError(`User with email ${req.body.email} does not exists`);
-
+        
         const match = await bcrypt.compare(req.body.pwd, user.pwd);
         if (!match) throw new AuthFailureError("Invalid password");
 
