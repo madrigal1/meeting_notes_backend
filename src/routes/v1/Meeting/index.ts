@@ -32,12 +32,12 @@ router.delete(
 
 router.get(
     "/fetch/all",
-    asyncHandler(async (req, res) => {
+    asyncHandler(async (_, res) => {
         const allMeetings = await MeetingRepo.fetchAll();
-        if (!allMeetings) throw new InternalError(`unable to fetch all meetings`);
+        if (!allMeetings || allMeetings.length == 0) throw new InternalError(`unable to fetch all meetings`);
 
 
-        return new SuccessResponse(`Successfully created a new meeting`, {
+        return new SuccessResponse(`Successfully fetched all meetings`, {
             allMeetings
         }).send(res);
     }),
