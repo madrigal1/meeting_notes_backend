@@ -23,6 +23,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
+const mongoose_1 = require("mongoose");
 const authentication_1 = __importDefault(require("../../../auth/authentication"));
 const ApiError_1 = require("../../../core/ApiError");
 const ApiResponse_1 = require("../../../core/ApiResponse");
@@ -34,7 +35,7 @@ const meetingSchema_1 = __importDefault(require("./meetingSchema"));
 const router = express_1.default.Router();
 router.use(authentication_1.default);
 router.delete("/delete/:id", (0, validator_1.default)(meetingSchema_1.default.id, validator_1.ValidationSource.PARAM), (0, asyncHandler_1.default)(async (req, res) => {
-    const meeting = await MeetingRepo_1.default.delete(req.params.id);
+    const meeting = await MeetingRepo_1.default.delete(new mongoose_1.Types.ObjectId(req.params.id));
     if (!meeting)
         throw new ApiError_1.BadRequestError(`No Meeting with id ${req.params.id}`);
     return new ApiResponse_1.SuccessResponse(`Successfully delete meeting`, {
@@ -42,7 +43,7 @@ router.delete("/delete/:id", (0, validator_1.default)(meetingSchema_1.default.id
     }).send(res);
 }));
 router.get("/fetch/:id", (0, validator_1.default)(meetingSchema_1.default.id, validator_1.ValidationSource.PARAM), (0, asyncHandler_1.default)(async (req, res) => {
-    const allMeetings = await MeetingRepo_1.default.findByUser(req.params.id);
+    const allMeetings = await MeetingRepo_1.default.findByUser(new mongoose_1.Types.ObjectId(req.params.id));
     if (!allMeetings || allMeetings.length == 0)
         throw new ApiError_1.InternalError(`unable to fetch all meetings`);
     return new ApiResponse_1.SuccessResponse(`Successfully fetched all meetings of user ${req.params.id}`, {
@@ -58,7 +59,7 @@ router.get("/fetch/all", (0, asyncHandler_1.default)(async (_, res) => {
     }).send(res);
 }));
 router.put("/update", (0, validator_1.default)(meetingSchema_1.default.update), (0, asyncHandler_1.default)(async (req, res) => {
-    const meeting = await MeetingRepo_1.default.findById(req.body._id);
+    const meeting = await MeetingRepo_1.default.findById(new mongoose_1.Types.ObjectId(req.body._id));
     if (!meeting)
         throw new ApiError_1.BadRequestError(`No meeting with id ${req.body._id}`);
     if (req.body.title)

@@ -31,6 +31,7 @@ const authUtils_1 = require("./authUtils");
 const validator_1 = __importStar(require("../helpers/validator"));
 const asyncHandler_1 = __importDefault(require("../helpers/asyncHandler"));
 const authSchema_1 = __importDefault(require("./authSchema"));
+const mongoose_1 = require("mongoose");
 const router = express_1.default.Router();
 exports.default = router.use((0, validator_1.default)(authSchema_1.default.auth, validator_1.ValidationSource.HEADER), (0, asyncHandler_1.default)(async (req, _, next) => {
     if (!req.headers.authorization)
@@ -40,7 +41,7 @@ exports.default = router.use((0, validator_1.default)(authSchema_1.default.auth,
     try {
         const payload = await JWT_1.default.validate(req.accessToken);
         (0, authUtils_1.validateTokenData)(payload);
-        const user = await UserRepo_1.default.findById(payload.sub);
+        const user = await UserRepo_1.default.findById(new mongoose_1.Types.ObjectId(payload.sub));
         if (!user)
             throw new ApiError_1.AuthFailureError('User not registered: Please Login first and check the autorisation header');
         req.user = user;

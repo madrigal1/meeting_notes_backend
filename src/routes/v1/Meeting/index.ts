@@ -1,4 +1,5 @@
 import express from "express";
+import { Types } from "mongoose";
 import authentication from "../../../auth/authentication";
 import { BadRequestError, InternalError } from "../../../core/ApiError";
 import { SuccessResponse } from "../../../core/ApiResponse";
@@ -19,7 +20,7 @@ router.delete(
     "/delete/:id",
     validator(meetingSchema.id, ValidationSource.PARAM),
     asyncHandler(async (req, res) => {
-        const meeting = await MeetingRepo.delete(req.params.id);
+        const meeting = await MeetingRepo.delete(new Types.ObjectId(req.params.id));
         if (!meeting) throw new BadRequestError(`No Meeting with id ${req.params.id}`)
 
         return new SuccessResponse(`Successfully delete meeting`, {
@@ -30,10 +31,10 @@ router.delete(
 )
 
 router.get(
-    "/fetch/:id", 
+    "/fetch/:id",
     validator(meetingSchema.id, ValidationSource.PARAM),
     asyncHandler(async (req, res) => {
-        const allMeetings = await MeetingRepo.findByUser(req.params.id);
+        const allMeetings = await MeetingRepo.findByUser(new Types.ObjectId(req.params.id));
         if (!allMeetings || allMeetings.length == 0) throw new InternalError(`unable to fetch all meetings`);
 
 
@@ -63,7 +64,7 @@ router.put(
     "/update",
     validator(meetingSchema.update),
     asyncHandler(async (req, res) => {
-        const meeting = await MeetingRepo.findById(req.body._id);
+        const meeting = await MeetingRepo.findById(new Types.ObjectId(req.body._id));
         if (!meeting) throw new BadRequestError(`No meeting with id ${req.body._id}`);
 
         if (req.body.title) meeting.title = req.body.title;

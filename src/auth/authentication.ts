@@ -9,6 +9,7 @@ import validator, { ValidationSource } from '../helpers/validator';
 import asyncHandler from '../helpers/asyncHandler';
 import authSchema from './authSchema';
 import Logger from '../core/Logger';
+import { Types } from 'mongoose';
 
 
 const router = express.Router();
@@ -23,7 +24,7 @@ export default router.use(
             const payload = await JWT.validate(req.accessToken);
             validateTokenData(payload);
 
-            const user = await UserRepo.findById(payload.sub);
+            const user = await UserRepo.findById(new Types.ObjectId(payload.sub));
             if (!user) throw new AuthFailureError('User not registered: Please Login first and check the autorisation header');
             req.user = user;
 
