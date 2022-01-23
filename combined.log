@@ -1458,3 +1458,40 @@ info: POST /v1/user/register 400 70 - 2.332 ms
 info: POST /v1/user/login 200 1244 - 182.030 ms
 info: GET /v1/meeting/fetch/all 304 - - 12.531 ms
 info: POST /v1/user/login 401 51 - 140.928 ms
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: GET /v1/meeting/fetch/61ea6716e1836776f1874e73 401 105 - 25.787 ms
+info: POST /v1/user/login 200 1244 - 136.802 ms
+info: GET /v1/meeting/fetch/61ea6716e1836776f1874e73 200 1067 - 11.723 ms
+info: server running on port : 5000
+info: Mongoose default connection open to mongodb://127.0.0.1:27017/meetingnotes
+info: Mongoose connection done
+info: GET /v1/meeting/fetch/61ea6716e1836776f1874e73 200 1100 - 37.567 ms

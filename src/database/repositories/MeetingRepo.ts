@@ -12,6 +12,9 @@ export default class MeetingRepo {
     public static async findById(_id: string): Promise<Meeting> {
         return MeetingModel.findById(_id).lean<Meeting>().exec();
     }
+    public static async findByUser(_id:string):Promise<Array<Meeting>> {
+        return MeetingModel.find({initiator:_id}).lean<Meeting[]>().exec();
+    }
     public static async update(meeting: Meeting): Promise<Meeting> {
         return MeetingModel.findOneAndUpdate({ _id: meeting._id }, { $set: { ...meeting } }, { new: true });
     }

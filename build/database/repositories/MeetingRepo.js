@@ -12,6 +12,9 @@ class MeetingRepo {
     static async findById(_id) {
         return Meeting_1.MeetingModel.findById(_id).lean().exec();
     }
+    static async findByUser(_id) {
+        return Meeting_1.MeetingModel.find({ initiator: _id }).lean().exec();
+    }
     static async update(meeting) {
         return Meeting_1.MeetingModel.findOneAndUpdate({ _id: meeting._id }, { $set: { ...meeting } }, { new: true });
     }

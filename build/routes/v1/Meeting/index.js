@@ -41,6 +41,14 @@ router.delete("/delete/:id", (0, validator_1.default)(meetingSchema_1.default.id
         meeting
     }).send(res);
 }));
+router.get("/fetch/:id", (0, validator_1.default)(meetingSchema_1.default.id, validator_1.ValidationSource.PARAM), (0, asyncHandler_1.default)(async (req, res) => {
+    const allMeetings = await MeetingRepo_1.default.findByUser(req.params.id);
+    if (!allMeetings || allMeetings.length == 0)
+        throw new ApiError_1.InternalError(`unable to fetch all meetings`);
+    return new ApiResponse_1.SuccessResponse(`Successfully fetched all meetings of user ${req.params.id}`, {
+        allMeetings
+    }).send(res);
+}));
 router.get("/fetch/all", (0, asyncHandler_1.default)(async (_, res) => {
     const allMeetings = await MeetingRepo_1.default.fetchAll();
     if (!allMeetings || allMeetings.length == 0)

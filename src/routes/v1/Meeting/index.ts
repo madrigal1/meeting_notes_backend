@@ -29,6 +29,19 @@ router.delete(
     }),
 )
 
+router.get(
+    "/fetch/:id", 
+    validator(meetingSchema.id, ValidationSource.PARAM),
+    asyncHandler(async (req, res) => {
+        const allMeetings = await MeetingRepo.findByUser(req.params.id);
+        if (!allMeetings || allMeetings.length == 0) throw new InternalError(`unable to fetch all meetings`);
+
+
+        return new SuccessResponse(`Successfully fetched all meetings of user ${req.params.id}`, {
+            allMeetings
+        }).send(res);
+    }),
+)
 
 router.get(
     "/fetch/all",
